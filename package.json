@@ -1,0 +1,29 @@
+{
+  "name": "deplojs",
+  "version": "1.0.0",
+  "description": "Small app to manage deploys at small servers.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteLeash/DeploJS.git"
+  },
+  "keywords": [
+    "deploy",
+    "git",
+    "node",
+    "js",
+    "development"
+  ],
+  "author": "WhiteLeash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WhiteLeash/DeploJS/issues"
+  },
+  "homepage": "https://github.com/WhiteLeash/DeploJS#readme"
+}
